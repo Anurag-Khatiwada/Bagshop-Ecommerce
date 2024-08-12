@@ -1,0 +1,5 @@
+{
+    JWT_KEY = process.env.NODE_ENV.JWT_KEY,
+    EXPRESS_SESSION_SECRET = process.env.NODE_ENV.EXPRESS_SESSION_SECRET
+
+}
